@@ -1,0 +1,36 @@
+.App {
+  padding: 64px;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.todo-container {
+  margin-top: 32px;
+}
+
+.todo-card {
+  border: 1px solid red;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.todo-form {
+  display: flex;
+  flex-direction: column;
+  width: min-content;
+  gap: 16px;
+  margin-bottom: 16px;
+  border: 2px blue solid;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.forms-container {
+  display: flex;
+  gap: 32px;
+}
