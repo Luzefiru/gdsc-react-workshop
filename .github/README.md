@@ -1,6 +1,6 @@
 # gdsc-react-workshop
 
-<img src="./.github/banner.png" />
+<img src="./banner.png" />
 
 This workshop offers a one-day deep dive into React fundamentals, covering Component-based architecture, React State management, and JSX syntax.
 
